@@ -1,0 +1,29 @@
+{
+  "name": "moby.js",
+  "authors": [
+    "Joshua Sanger <joshsanger88@gmail.com>"
+  ],
+  "description": "Moby.js is a jQuery based library that assists in creating customizable mobile menus.",
+  "main": "",
+  "keywords": [
+    "mobile",
+    "menu",
+    "moby"
+  ],
+  "license": "MIT",
+  "homepage": "http://joshuasanger.ca/libraries/moby",
+  "dependencies": {
+    "jquery": "^2.2.2"
+  },
+  "version": "2.0.7",
+  "_release": "2.0.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.0.7",
+    "commit": "da2500ec455dcd9def5b076be29453d177670091"
+  },
+  "_source": "https://github.com/joshsanger/moby.js.git",
+  "_target": "^2.0.7",
+  "_originalSource": "moby.js",
+  "_direct": true
+}
